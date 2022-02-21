@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/cnb10100/ecommerce-backend"
   },
   "keywords": [],
-  "author": "",
+  "author": "cnb10100",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
